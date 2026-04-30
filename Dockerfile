@@ -1,4 +1,4 @@
-FROM ubuntu:20.04 as builder
+FROM ubuntu:26.04 as builder
 
 # Configure OS
 ENV TZ=Europe/Warsaw
